@@ -42,4 +42,12 @@
 | [0231-power-of-two](https://github.com/anshh1612/lc/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshh1612/lc/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshh1612/lc/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anshh1612/lc/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anshh1612/lc/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
