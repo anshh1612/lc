@@ -8,6 +8,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshh1612/lc/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshh1612/lc/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/anshh1612/lc/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/anshh1612/lc/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
