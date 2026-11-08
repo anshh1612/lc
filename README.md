@@ -6,6 +6,7 @@
 | [0070-climbing-stairs](https://github.com/anshh1612/lc/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anshh1612/lc/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshh1612/lc/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshh1612/lc/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshh1612/lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshh1612/lc/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/anshh1612/lc/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -29,6 +30,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anshh1612/lc/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anshh1612/lc/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anshh1612/lc/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -39,4 +41,5 @@
 | ------- |
 | [0231-power-of-two](https://github.com/anshh1612/lc/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshh1612/lc/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshh1612/lc/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
