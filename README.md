@@ -16,6 +16,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/anshh1612/lc/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/anshh1612/lc/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/anshh1612/lc/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/anshh1612/lc/tree/master/2739-total-distance-traveled) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/anshh1612/lc/tree/master/2169-count-operations-to-obtain-zero) |
+| [2739-total-distance-traveled](https://github.com/anshh1612/lc/tree/master/2739-total-distance-traveled) |
 ## Recursion
 |  |
 | ------- |
